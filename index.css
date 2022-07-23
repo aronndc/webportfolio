@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 * {
-	font-family: sans-serif;
+	font-family: 'Roboto', sans-serif;
+
 }
 
 html {
@@ -12,17 +15,27 @@ img {
 }
 
 #LandingPagebg {
-	background-image: url(https://wallpaperaccess.com/full/1836491.jpg);
+	background-image: url(https://wallpaperaccess.com/full/2439464.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100%;
 }
-
-
 
 #aboutMebg {
 	background-image: url(https://media.istockphoto.com/photos/dark-blue-metal-pattern-background-picture-id1161683700?b=1&k=20&m=1161683700&s=612x612&w=0&h=3B2GIQVCbRdb_DvtFqa3E6YpDK7t8TIe0uLeekqbdRw=);
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100%;
+}
+
+#ContactMePg {
+	background-image: url(https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+#gmap_canvas {
+	height: 90%;
+	width: 100%;
 }
